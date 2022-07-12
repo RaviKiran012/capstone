@@ -12,7 +12,7 @@ import java.util.Set;
 
 @Data
 @Entity
-@NoArgsConstructor
+//@NoArgsConstructor
 public class Cart implements Serializable {
     @Id
     @NotNull
